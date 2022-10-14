@@ -1,7 +1,7 @@
 import requests
 from scrapper_wiki import get_superficie
 
-token = "pk.eyJ1IjoiamFrMTN0aCIsImEiOiJja3pta3B6d3IycWJxMnZvYzVnNmh1cGZjIn0.0wGgN1yfP59SvOMUsrvhOA"
+token = ***
 
 def get_price(lat, lon, dist):
     List_price = []
